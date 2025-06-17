@@ -58,7 +58,7 @@ pillow==11.1.0
     # via streamlit
 pip-tools==7.4.1
     # via -r requirements.in
-protobuf==5.29.3
+protobuf==5.29.5
     # via streamlit
 pyarrow==19.0.1
     # via streamlit
