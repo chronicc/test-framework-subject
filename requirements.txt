@@ -76,7 +76,7 @@ referencing==0.36.2
     # via
     #   jsonschema
     #   jsonschema-specifications
-requests==2.32.3
+requests==2.33.0
     # via streamlit
 rpds-py==0.23.1
     # via
@@ -92,7 +92,7 @@ tenacity==9.0.0
     # via streamlit
 toml==0.10.2
     # via streamlit
-tornado==6.4.2
+tornado==6.5.1
     # via streamlit
 typing-extensions==4.12.2
     # via
@@ -100,7 +100,7 @@ typing-extensions==4.12.2
     #   streamlit
 tzdata==2025.1
     # via pandas
-urllib3==2.3.0
+urllib3==2.6.0
     # via requests
 watchdog==6.0.0
     # via streamlit
